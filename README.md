@@ -28,11 +28,11 @@ Para o projeto faremos o Deploy do Dremio On-Premises com Docker e criaremos o D
 ## Vamos começar.
 
 ### Criando um ambiente a partir do Zero:
-[arquivo_configuracao_ambiente]()
+[arquivo_configuracao_ambiente](https://github.com/douglasmitsue/data-analytics-dremio/blob/main/ConfiguracaoAmbiente.txt)
 
 ### Implementando o Data Lake com Apache Hadoop HDFS
-[arquivo_implementando_hdfs]()
+[arquivo_implementando_hdfs](https://github.com/douglasmitsue/data-analytics-dremio/blob/main/implementacao-hdfs.txt)
 
 ### Implementando o Dremio
-[arquivo_configuracao_dremio]()
+[arquivo_configuracao_dremio](https://github.com/douglasmitsue/data-analytics-dremio/blob/main/configuracaoDremio.txt)
 
