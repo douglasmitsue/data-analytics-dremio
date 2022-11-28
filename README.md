@@ -8,8 +8,8 @@ Resolve  o  desafio  de  tornar  os  dados  rápidos  e  de  autoatendimento  pa
 ## Apache  Arrow
 Este  kernel de execução oferece eficiência até 100x maior em muitos tipos de consultas e operações. Essa eficiência aprimorada se traduz em custos operacionais mais baixos, melhor experiência do usuário e capacidade de suportar mais cargas de trabalho com o hardware existente.
 
-### A visão do Dremio é tornar os Engenheiros de Dados mais produtivos enquanto torna os consumidores de dados mais autossuficientes.
+#### A visão do Dremio é tornar os Engenheiros de Dados mais produtivos enquanto torna os consumidores de dados mais autossuficientes.
 
-A imagem a seguir mostra o que o Dremio é capaz de fazer.Data Science Academy mitsuedouglas@gmail.com 5a2986095e4cdecfe98b4567
+A imagem a seguir mostra o que o Dremio é capaz de fazer.
 
-![]()
+![arquitetura_dremio](https://github.com/douglasmitsue/data-analytics-dremio/blob/main/arquitetura-dremio.jpg)
