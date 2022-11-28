@@ -1,0 +1,17 @@
+9047onfigurando o Dremio
+
+# verificando a instalação do docker
+sudo docker version
+
+# Baixando a imagem Dremio Docker
+docker pull dremio/dremio-oss
+
+# Single Node Deployment
+docker run -p 9047:9047 -p 31010:31010 -p 45678:45678 dremio/dremio-oss
+
+# Tela de boas vindas do Dremio
+localhost:9047
+
+# Criar a conta para administracao do Dremio
+
+
